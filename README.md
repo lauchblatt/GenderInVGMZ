@@ -1,4 +1,4 @@
-# GenderIn Video Game Magazines
+# Gender In Video Game Magazines
 
 Here you find information about the corpus used in the Paper:
 "Towards an Analysis of Gender in Video Game Culture: Exploring Gender-specific Vocabulary in Video Game Magazines."
